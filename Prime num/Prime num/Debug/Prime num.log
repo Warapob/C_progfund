@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\User\Desktop\C Ultimateproj\Prime num\Prime num\Source.c(5,17): warning C4013: 'isPrime' undefined; assuming extern returning int
+C:\Users\User\Desktop\C Ultimateproj\Prime num\Prime num\Source.c(23): warning C4715: 'isPrime': not all control paths return a value
+  Prime num.vcxproj -> C:\Users\User\Desktop\C Ultimateproj\Prime num\Debug\Prime num.exe

@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\User\Desktop\C Ultimateproj\Fruit cal\Fruit cal\Source.c(9,9): warning C4477: 'scanf' : format string '%f' requires an argument of type 'float *', but variadic argument 1 has type 'double'
+C:\Users\User\Desktop\C Ultimateproj\Fruit cal\Fruit cal\Source.c(9,9): warning C4477: 'scanf' : format string '%f' requires an argument of type 'float *', but variadic argument 2 has type 'double'
+  Fruit cal.vcxproj -> C:\Users\User\Desktop\C Ultimateproj\Fruit cal\Debug\Fruit cal.exe

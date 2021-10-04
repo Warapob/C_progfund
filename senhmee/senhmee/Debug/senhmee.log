@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\User\Desktop\C Ultimateproj\senhmee\senhmee\Source.c(11,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\C Ultimateproj\senhmee\senhmee\Source.c(13,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  senhmee.vcxproj -> C:\Users\User\Desktop\C Ultimateproj\senhmee\Debug\senhmee.exe

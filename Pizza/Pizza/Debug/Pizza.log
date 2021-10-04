@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\User\Desktop\C Ultimateproj\Pizza\Pizza\Source.c(8,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Pizza.vcxproj -> C:\Users\User\Desktop\C Ultimateproj\Pizza\Debug\Pizza.exe

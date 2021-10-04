@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\User\Desktop\C Ultimateproj\How many bag\How many bag\Source.c(17,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  How many bag.vcxproj -> C:\Users\User\Desktop\C Ultimateproj\How many bag\Debug\How many bag.exe

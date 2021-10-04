@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\User\Desktop\Cultimate\Hello---\Hello---\Source.c(4,6): warning C4013: 'gets' undefined; assuming extern returning int
+  Hello---.vcxproj -> C:\Users\User\Desktop\Cultimate\Hello---\Debug\Hello---.exe
