@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\User\Desktop\C Ultimateproj\Diet Daddy\Diet Daddy\Source.c(11,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\C Ultimateproj\Diet Daddy\Diet Daddy\Source.c(15,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Diet Daddy.vcxproj -> C:\Users\User\Desktop\C Ultimateproj\Diet Daddy\Debug\Diet Daddy.exe

@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\User\Desktop\C Ultimateproj\Book store\Book store\Source.c(8,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\C Ultimateproj\Book store\Book store\Source.c(12,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Book store.vcxproj -> C:\Users\User\Desktop\C Ultimateproj\Book store\Debug\Book store.exe

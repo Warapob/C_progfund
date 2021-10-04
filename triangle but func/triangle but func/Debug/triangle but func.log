@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\User\Desktop\C Ultimateproj\triangle but func\triangle but func\Source.c(10,10): warning C4098: 'triangle': 'void' function returning a value
+  triangle but func.vcxproj -> C:\Users\User\Desktop\C Ultimateproj\triangle but func\Debug\triangle but func.exe

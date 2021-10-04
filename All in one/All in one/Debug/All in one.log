@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\User\Desktop\C Ultimateproj\All in one\All in one\Source.c(23,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  All in one.vcxproj -> C:\Users\User\Desktop\C Ultimateproj\All in one\Debug\All in one.exe
